@@ -1,4 +1,4 @@
-package com.kja.exam.jpaBoard.article.dao;
+package com.kja.exam.jpaBoard.article.domain;
 
 import com.kja.exam.jpaBoard.user.domain.User;
 import lombok.Getter;
