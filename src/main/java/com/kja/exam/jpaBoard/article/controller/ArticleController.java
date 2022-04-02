@@ -1,7 +1,7 @@
 package com.kja.exam.jpaBoard.article.controller;
 
 import com.kja.exam.jpaBoard.article.dao.Article;
-import com.kja.exam.jpaBoard.article.repository.ArticleRepository;
+import com.kja.exam.jpaBoard.article.domain.ArticleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

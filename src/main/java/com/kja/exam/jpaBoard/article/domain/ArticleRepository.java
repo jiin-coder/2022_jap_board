@@ -1,4 +1,4 @@
-package com.kja.exam.jpaBoard.article.repository;
+package com.kja.exam.jpaBoard.article.domain;
 
 import com.kja.exam.jpaBoard.article.dao.Article;
 import org.springframework.data.jpa.repository.JpaRepository;
